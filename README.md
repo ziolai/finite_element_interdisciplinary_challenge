@@ -1,2 +1,0 @@
-# finite_element_interdisciplinary_challenge
-Interdisciplinary challenge material  
