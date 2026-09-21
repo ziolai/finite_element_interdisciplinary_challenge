@@ -12,7 +12,15 @@ In the <i>Numerical Methods for Electrical Engineering project</i>, you will be 
 
 ## Section 2: First Block: Physical Principles and One-Dimensional Models  
 
+### Section 1.2: Reference Slides 
+1. [one dimensional finite element method](https://github.com/ziolai/finite_element_interdisciplinary_challenge/blob/main/slides/block1-finite-element-method-1d.pdf)
+2. [mathematical preliminaries slides](https://github.com/ziolai/finite_element_interdisciplinary_challenge/blob/main/slides/mathematical-preliminaries.pdf)
+3. [modeling fields slides](https://github.com/ziolai/finite_element_interdisciplinary_challenge/blob/main/slides/modeling-fields.pdf)
+
 ## Section 3: Second Block: Time Integration and Two-Dimensional Models 
+
+### Section 1.3: Reference Slides 
+1. [two dimensional finite element method](https://github.com/ziolai/finite_element_interdisciplinary_challenge/blob/main/slides/block2-finite-element-method-applications.pdf) 
    
 ## Section 4: Third Block: Linear Actuator Application 
 
@@ -38,6 +46,21 @@ In the third and last block we discuss the finite element solution of the Poisso
 ## Section 6: Course Design Document 
 
 ## Section 7: References
+
+### References on Software Components for Pre-Processing 
+1. [GMSH](https://gmsh.info)
+2. [OpenCascade](https://occt3d.com/open-cascade-technology/index.html)
+
+### References on Software Components for Computational Kernel 
+1. [Julia programming language](https://julialang.org)
+2. [Ferrite FEM package](https://ferrite-fem.github.io/Ferrite.jl/stable/)
+3. [Scientific machine learning](https://sciml.ai)
+
+### References on Software Components for Post-Processing
+1. [WriteVTK.jl](https://github.com/JuliaVTK/WriteVTK.jl)
+2. [Paraview](https://www.paraview.org)
+
+### References on the Finite Element Method 
 
 1. [Introduction to Numerical Methods for Variational Problems](https://link.springer.com/book/10.1007/978-3-030-23788-2) by Hans Petter Langtangen and Kent-Andre Mardal. The [book](https://link.springer.com/book/10.1007/978-3-030-23788-2) is freely available; 
 2. [Wolfgang Bangerth's video lectures](https://www.math.colostate.edu/~bangerth/videos.html); 
