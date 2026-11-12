@@ -19,14 +19,14 @@ The prerequisites for this course includes:
 4. a bachelor level course on <b>Maxwell equations</b> covering concepts such as Ampere Law, Faraday Law, Biot-Savart Law, magnetic flux, magnetic field, scalar magnetic potential and vector magnetic potential; 
 
 
-### 1.3: Electrical Engineering
+### 1.4: Electrical Engineering
 1. linear actuators, hybrid reluctance actuator, haptic actuator; 
 2. numerical models for linear actuators, equivalent circuit models, finite element models;
 
-### 1.4: Numerical Methods 
+### 1.5: Numerical Methods 
 1. partial differential equations, ordinary differential equations, boundary conditions, initial conditions, reference solution (analytical, symbolic or reference packages), finite element method (Galerkin weak form, element-by-element construction of linear system, linear system solve);
 
-### 1.5: Software Implementation 
+### 1.6: Software Implementation 
 1. home-brewed finite element simulator in Julia programming language. Preprocessor for geometry and mesh. Visualization and postprocessing of the computed solution. 
 2. motivate the choice for Julia: computationally efficiently while easier to use than classical programming languages
 
